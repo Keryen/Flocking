@@ -4,6 +4,7 @@ Flocking game test in Unreal Engine.
 In this game, there are some yellow boids with steering behaviors (alignment, cohesion and separation) inside the encapsulated scene. These boids avoid colliding with the obstacles inside and with the capsule so they cannot get out from the scene.
 
 
+
 https://github.com/Keryen/Flocking/assets/32041567/35de6da4-0ac3-469f-8b65-875c5b0f3591
 
 
