@@ -1,5 +1,5 @@
 # Flocking
-Flocking game test in Unreal Engine.
+Flocking game test in Unreal Engine 5.2.
 
 In this game, there are some yellow boids with steering behaviors (alignment, cohesion and separation) inside the encapsulated scene. These boids avoid colliding with the obstacles inside and with the capsule so they cannot get out from the scene.
 
